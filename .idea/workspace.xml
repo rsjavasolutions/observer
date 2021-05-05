@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ccc511f-c2ed-4aba-9671-0ae77d064418" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1s2DLfCkhIRNFkTZJfyUwDSi77n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Youtube" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Youtube" />
+      <module name="observer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Youtube" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ccc511f-c2ed-4aba-9671-0ae77d064418" name="Default Changelist" comment="" />
+      <created>1620061736270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620061736270</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1918" y="179" key="#Project_Structure" timestamp="1620061818290">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1918" y="179" key="#Project_Structure/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1620061818290" />
+    <state x="2131" y="237" key="#com.intellij.ide.util.MemberChooser" timestamp="1620196792234">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2131" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1620196792234" />
+    <state x="2080" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1620106289156">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2080" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1620106289156" />
+    <state width="1876" height="282" key="GridCell.Tab.0.bottom" timestamp="1620196989392">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="282" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1620196989392" />
+    <state width="1876" height="282" key="GridCell.Tab.0.center" timestamp="1620196989392">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="282" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1620196989392" />
+    <state width="1876" height="282" key="GridCell.Tab.0.left" timestamp="1620196989392">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="282" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1620196989392" />
+    <state width="1876" height="282" key="GridCell.Tab.0.right" timestamp="1620196989392">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="282" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1620196989392" />
+    <state x="1989" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1620064775410">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1989" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1620064775410" />
+  </component>
+</project>

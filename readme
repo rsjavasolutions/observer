@@ -1,0 +1,9 @@
+Obserwator – Observer – wzorzec opercyjny, Określa zależność „jeden do wielu” między obiektami. Kiedy zmieni sie stan jednego z obiektów, wszystkie obiekty zalezne od niego są o tym automatycznie powiadamiane i aktualizowane.
+Ten wzorzec projektowy opiera się o dwa interfejsy. Jeden z nich reprezentuje obserwatora. Drugi element, który jest obserwowany:
+Interfejs Observable zawiera trzy metody:
+•	attach(Observer) – powoduje dodanie nowego obserwatora (obserwator jest zainteresowany zmianami),
+•	detach(Observer) – powoduje usunięcie istniejącego obserwatora (obserwator nie jest już zainteresowany zmianami),
+•	notify() – powoduje powiadomienie wszystkich obserwatorów o wystąpieniu zmiany.
+Interfejs Observer zawiera wyłącznie jedną metodę:
+•	update() – metoda jest wywołana przez Observable w momencie wystąpienia zmiany.
+Interfejsy nie przechowują żadnego stanu, który może się zmienić. Właściwe obiekty implementują te interfejsy i to one przechowują stan.
